@@ -53,7 +53,7 @@ import express from "express";
 import blog from "./routes/blog.js";
 
 const app = express();
-const port = 3000;
+const port = 5000;
 
 app.use("/blog", blog);
 
@@ -61,3 +61,4 @@ app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
 
+//practice first backend proj
