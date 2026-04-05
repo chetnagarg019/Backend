@@ -20,3 +20,5 @@ router.get('/userPost/:slug', (req, res) => {
 
 
 module.exports = router
+
+//to make a authroutes thatdefines 

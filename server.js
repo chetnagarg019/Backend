@@ -47,7 +47,7 @@
 
 // app.listen(port, () => {
 //   console.log(`Example app listening on port ${port}`);
-// }); // that is problem 
+// }); // that is problem  
 
 import express from "express";
 import blog from "./routes/blog.js";
@@ -61,4 +61,4 @@ app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
 
-//practice first backend proj
+//practice first backend proj 

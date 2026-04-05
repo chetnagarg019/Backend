@@ -36,3 +36,5 @@ router.get("/about", (req, res) => {
 });
 
 export default router;
+//this is a blog
+
